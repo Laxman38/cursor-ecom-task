@@ -36,3 +36,5 @@ Running `src\main.py` will:
 4. Execute illustrative SQL queries that join multiple tables and print the results.
 
 
+This project was completed using AI-assisted development in Cursor.
+A-SDLC prompts used in the project are included in PROMPTS.md.
