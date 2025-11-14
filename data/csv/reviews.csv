@@ -1,0 +1,61 @@
+review_id,user_id,product_id,rating,review_date,comment
+1,31,8,3,2025-09-03,Packaging could be better.
+2,35,16,4,2025-09-25,Not worth the price.
+3,3,2,5,2025-10-19,Great quality!
+4,49,9,3,2025-09-03,Packaging could be better.
+5,36,11,2,2025-08-04,Great quality!
+6,28,2,1,2025-10-19,Great quality!
+7,11,10,5,2025-07-20,Would buy again.
+8,50,14,2,2025-10-22,Met expectations.
+9,38,26,4,2025-10-16,Met expectations.
+10,32,1,2,2025-08-12,Would buy again.
+11,25,5,4,2025-08-31,Fast shipping and solid build.
+12,20,9,2,2025-10-17,Not worth the price.
+13,22,29,4,2025-08-03,Exceeded expectations!
+14,34,19,4,2025-11-07,Met expectations.
+15,18,1,4,2025-08-30,Met expectations.
+16,22,18,1,2025-08-31,Great quality!
+17,21,25,4,2025-09-22,Exceeded expectations!
+18,6,27,1,2025-09-05,Great quality!
+19,41,20,1,2025-10-30,Not worth the price.
+20,22,6,4,2025-08-21,Would buy again.
+21,26,12,1,2025-09-27,Not worth the price.
+22,36,19,5,2025-08-30,Packaging could be better.
+23,39,29,1,2025-10-10,Packaging could be better.
+24,40,24,1,2025-09-22,Met expectations.
+25,26,6,2,2025-08-06,Great quality!
+26,23,29,1,2025-10-23,Met expectations.
+27,11,28,5,2025-09-10,Met expectations.
+28,15,24,2,2025-08-15,Not worth the price.
+29,9,12,4,2025-09-14,Exceeded expectations!
+30,27,17,5,2025-07-26,Packaging could be better.
+31,41,23,1,2025-11-04,Not worth the price.
+32,8,9,1,2025-11-02,Fast shipping and solid build.
+33,5,10,3,2025-07-30,Met expectations.
+34,44,19,2,2025-09-15,Exceeded expectations!
+35,9,7,4,2025-07-20,Fast shipping and solid build.
+36,27,10,5,2025-09-20,Would buy again.
+37,27,22,4,2025-09-20,Met expectations.
+38,6,4,2,2025-08-17,Great quality!
+39,10,16,2,2025-10-04,Exceeded expectations!
+40,8,21,3,2025-11-05,Great quality!
+41,5,26,2,2025-11-07,Great quality!
+42,28,11,2,2025-11-09,Met expectations.
+43,45,26,4,2025-10-19,Fast shipping and solid build.
+44,20,20,2,2025-09-04,Met expectations.
+45,19,18,1,2025-10-14,Fast shipping and solid build.
+46,33,28,3,2025-10-01,Would buy again.
+47,7,10,4,2025-09-15,Would buy again.
+48,49,29,2,2025-08-07,Packaging could be better.
+49,35,17,4,2025-10-07,Would buy again.
+50,36,4,3,2025-08-25,Not worth the price.
+51,16,19,1,2025-09-20,Fast shipping and solid build.
+52,50,5,1,2025-07-21,Not worth the price.
+53,11,9,4,2025-10-28,Exceeded expectations!
+54,8,15,3,2025-08-16,Exceeded expectations!
+55,24,2,2,2025-08-16,Exceeded expectations!
+56,30,25,5,2025-08-05,Great quality!
+57,4,22,5,2025-09-22,Met expectations.
+58,50,6,5,2025-07-25,Not worth the price.
+59,40,18,3,2025-10-01,Great quality!
+60,31,17,5,2025-07-27,Exceeded expectations!
